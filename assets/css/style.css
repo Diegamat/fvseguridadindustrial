@@ -1,0 +1,29 @@
+.pie {
+  background-color: black;
+}
+
+.contacto {
+  background-color: lavender;
+}
+
+.navegador {
+  background-color: black;
+  color: antiquewhite;
+}
+
+.tarjetas {
+  background-color: lightgray;
+}
+
+.nosotros {
+  background-color: lavender;
+}
+
+.imgnosotros {
+  background-image: url(../img/deposito4.jpg);
+}
+
+.tarjeta {
+  box-shadow: 8px 11px 24px -11px rgba(0, 0, 0, 0.75);
+}
+/*# sourceMappingURL=style.css.map */
